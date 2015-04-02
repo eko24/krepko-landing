@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial
+
+   /* &, & * {
+        &:focus,&:active {
+            outline: none;
+            -moz-outline: none;
+        }
+    }*/
+}
+
+header {
+    width: 100vw;
+    height: 100vh;
+    background: #1E2B33;
+
+    nav {
+        display: inline-block;
+        padding: 20px;
+        color: #fff;
+        width: 80em;
+        text-align: center;
+        ul {
+            display: inline-block;
+
+            li {
+                display: inline;
+                float: left
+            }
+            &.left {
+                float: left;
+            }
+            &.center {
+                li {
+                    margin:0 15px;
+                }
+            }
+            &.right {
+                float: right;
+
+                button {
+                    background: transparent;
+                    color: #fff;
+                    border: 2px solid #fff;
+                    border-radius: 17px;
+                    padding: 7px 20px;
+                    cursor: pointer;
+
+                    &.primary {
+                        background-color: #26BE97;
+                        border-color: #26BE97;
+                    }
+                }
+            }
+        }
+    }
+
+    section#lead {
+        padding: 10% 25%;
+        max-width: 60%;
+        h1 {
+            font-size: 32px;
+        }
+
+        button#signup {
+            background-color: #F86D6A;
+            border: 3px solid #F86D6A;
+            border-bottom-color: #D95A57;
+            border-radius: 5px;
+            padding: 15px 55px;
+            font-size: 1.5em;
+            color:#fff;
+            cursor: pointer;
+
+            &:active {
+                border-bottom-width: 0px;
+            }
+        }
+    }
+}
+
+// injector
+// endinjector
