@@ -13,5 +13,5 @@ Then run `gulp serve` to start development.
 Or `gulp build` to build an optimized version of landing page.
 
 ## Copyright
-Right for template and this repo belongs to [Rashed](https://dribbble.com/rakabir) design.
+Right for template and this repo belongs to [Rashed](https://dribbble.com/rakabir).  
 He could ask me to delete this repo at any moment. 
