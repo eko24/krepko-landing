@@ -1,5 +1,5 @@
-# krepko-landing
-Just markup implementation [this](https://dribbble.com/shots/1819382-Landing-page-for-Invest-in-stock-site?list=users&offset=7) design by [Rashed](https://dribbble.com/rakabir) design.
+# Krepko
+Just markup implementation of [this](https://dribbble.com/shots/1819382-Landing-page-for-Invest-in-stock-site?list=users&offset=7) design by [Rashed](https://dribbble.com/rakabir).
 
 It won't be used by me in any commercial purposes.
 
